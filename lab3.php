@@ -7,5 +7,6 @@
 </head>
 <body>
   <h1>Lab 3</h1>
+  <h2>This is the logic for the withdarw functions</h2>
 </body>
 </html>
